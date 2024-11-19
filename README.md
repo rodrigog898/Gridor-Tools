@@ -1,6 +1,9 @@
 # 🚀 Optimización de Servicios y Herramientas para Windows
 
+
 Este proyecto es una aplicación interactiva en formato ejecutable (`.exe`) para sistemas Windows. Incluye funcionalidades para la gestión de servicios, instalación de programas, descarga de repositorios y herramientas de escritorio, como la obtención de contraseñas Wi-Fi y la optimización de servicios.
+
+![image](https://github.com/user-attachments/assets/fbc52309-059b-443c-8235-45f31ee0e062)
 
 ---
 
