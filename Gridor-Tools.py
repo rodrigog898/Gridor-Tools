@@ -5,7 +5,7 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)
 
-# Diccionario de servicios para optimización
+# Diccionario de servicios para optimizacióna
 services = {
     "Administración de autenticación de Xbox Live": "XblAuthManager",
     "Servicio de red de Xbox Live": "XboxNetApiSvc",
